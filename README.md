@@ -1,1 +1,1 @@
-# Fuel-consumption-simple-liniar-regression
+# Simple liniar regression to predict fuel consumption
